@@ -1,0 +1,11 @@
+# name: "Managed Terraform Apply Workflow"
+
+# on:
+#   push:
+#     branches:
+#       - main
+#   workflow_dispatch:
+
+#   jobs:
+#     managed-workflow:
+#       uses: remyaraya/workflow-templates/.github/workflows/terraform-apply.yml
